@@ -1,0 +1,4 @@
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\SchoolManagement.Model.Contract\bin\Debug\SchoolManagement.Model.Contract.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\SchoolManagement.Model.Contract\bin\Debug\SchoolManagement.Model.Contract.pdb
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\SchoolManagement.Model.Contract\obj\Debug\SchoolManagement.Model.Contract.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\SchoolManagement.Model.Contract\obj\Debug\SchoolManagement.Model.Contract.pdb

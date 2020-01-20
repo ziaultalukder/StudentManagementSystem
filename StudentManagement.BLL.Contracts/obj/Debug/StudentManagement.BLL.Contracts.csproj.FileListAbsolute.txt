@@ -1,0 +1,15 @@
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\StudentManagement.BLL.Contracts.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\StudentManagement.BLL.Contracts.pdb
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\SchoolManagement.Model.Contract.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\SchoolManagement.Model.Contract.pdb
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\obj\Debug\StudentManagement.BLL.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\obj\Debug\StudentManagement.BLL.Contracts.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\obj\Debug\StudentManagement.BLL.Contracts.pdb
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\StudentManagement.Model.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\StudentManagement.Model.pdb
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\NICE\Documents\visual studio 2013\Projects\StudentManagement\StudentManagement.BLL.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
